@@ -1,7 +1,10 @@
 body {
 	font-size: 25px;
 	color: white;
-	background-color: #daeaec;
+	background-color: #DAEAEC;
 	text-align: center;
 	font-family: sans-serif;}
-	h1 { text-align: center; font-weight: bold;font-family: sans-serif; font: calibri;}
+h1 {text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+	font: calibri;}
